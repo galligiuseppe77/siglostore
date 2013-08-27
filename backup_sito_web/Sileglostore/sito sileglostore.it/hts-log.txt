@@ -1,0 +1,18 @@
+HTTrack3.47-21+htsswf+htsjava launched on Tue, 30 Jul 2013 23:45:43 at http://www.sileglostore.it/index.html +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2013], %s -->" -%l "it, en, *" http://www.sileglostore.it/index.html -O1 "C:\Mie pagine Web\Sileglostore\sito sileglostore.it" +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:57:23	Error: 	"Not Found" (404) at link www.sileglostore.it/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from connect.facebook.net/it_IT/all.js)
+23:57:23	Error: 	"Not Found" (404) at link www.sileglostore.it/res/res/expressInstall.swf (from www.sileglostore.it/res/x5engine.deferrable.js)
+23:57:23	Error: 	"Not Found" (404) at link www.sileglostore.it/res/res/imfolder_open.gif (from www.sileglostore.it/res/x5engine.deferrable.js)
+23:57:23	Error: 	"Not Found" (404) at link www.sileglostore.it/res/res/imfolder_closed.gif (from www.sileglostore.it/res/x5engine.deferrable.js)
+23:57:23	Error: 	"Not Found" (404) at link www.sileglostore.it/res/res/imClose.png (from www.sileglostore.it/res/x5engine.deferrable.js)
+23:57:23	Error: 	"Not Found" (404) at link www.sileglostore.it/res/index.html (from www.sileglostore.it/res/x5cartengine.js)
+23:57:24	Warning: 	Warning, link #731 empty
+
+HTTrack Website Copier/3.47-21 mirror complete in 11 minutes 41 seconds : 730 links scanned, 723 files written (19317477 bytes overall) [17237459 bytes received at 24589 bytes/sec], 2877461 bytes transferred using HTTP compression in 108 files, ratio 19%
+(6 errors, 1 warnings, 0 messages)
